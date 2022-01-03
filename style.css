@@ -21,7 +21,7 @@
     max-height: 100px;
     padding: 1em;
     flex: 1;
-    background-color: cornflowerblue;
+    background-color: rgba(255, 255, 128, .5);
 }
 
 .center-container {
